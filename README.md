@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Image description](widgetdemo.JPG)
+
+Please note due to default packer configuration, project does not work under IE , pleasse use Chrome or Firefox
+
 ## Available Scripts
 
 In the project directory, you can run:
