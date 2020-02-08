@@ -6,7 +6,11 @@ Please note due to default packer configuration, project does not work under IE 
 
 ## Available Scripts
 
-In the project directory, you can run:
+In order to run project:
+
+1. Clone project from repo : git clone https://github.com/kozillla/weatherWidget
+2. go to project directory : cd weatherWidget
+3. install project : yarn
 
 ### `yarn start`
 
